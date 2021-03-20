@@ -1,5 +1,0 @@
-runtime: custom
-env: flex
-
-beta_settings:
-    cloud_sql_instances: vs-kg-infra:us-central1:vs-kg-db
