@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 
 import os
 from dotenv import load_dotenv, find_dotenv
+import dj_database_url
 load_dotenv()
 
 
@@ -98,7 +99,7 @@ WSGI_APPLICATION = 'main.wsgi.application'
 # } 
 DATABASES = {
     'default': dj_database_url.config(
-        default=config('DATABASE_URL')
+        default=os.environ.get('DATABASE_URL')
     )
 }
 
