@@ -2427,7 +2427,7 @@
       "model": "api.fieldvalue",
       "pk": 186,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 1,
         "data": {
           "value": "Бишкек, ул. Раззакова, 51А."
@@ -2438,7 +2438,7 @@
       "model": "api.fieldvalue",
       "pk": 187,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 2,
         "data": {
           "value": "Русский"
@@ -2449,7 +2449,7 @@
       "model": "api.fieldvalue",
       "pk": 188,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 3,
         "data": {
           "value": 35
@@ -2460,7 +2460,7 @@
       "model": "api.fieldvalue",
       "pk": 189,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 4,
         "data": {
           "value": "В 1945"
@@ -2471,7 +2471,7 @@
       "model": "api.fieldvalue",
       "pk": 190,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 5,
         "data": {
           "value": "2 общежития при университете"
@@ -2482,7 +2482,7 @@
       "model": "api.fieldvalue",
       "pk": 191,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 6,
         "data": {
           "value": "Студенческий сове а также спортивные секции, танцевальные, музыкальные и литературно-поэтические кружки."
@@ -2493,7 +2493,7 @@
       "model": "api.fieldvalue",
       "pk": 192,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 7,
         "data": {
           "value": 3
@@ -2504,7 +2504,7 @@
       "model": "api.fieldvalue",
       "pk": 193,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 8,
         "data": {
           "value": "Документ государственного образца о среднем общем или среднем профессиональном образовании (аттестат); Оригинал сертификата ОРТ; Копия паспорта; Приписное свидетельство или военный билет; 4 фотографии размером 3х4; Первоначальный платеж в размере 30% от общей стоимости обучения."
@@ -2515,7 +2515,7 @@
       "model": "api.fieldvalue",
       "pk": 194,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 9,
         "data": {
           "value": "4000 сом в год"
@@ -2526,7 +2526,7 @@
       "model": "api.fieldvalue",
       "pk": 195,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 10,
         "data": {
           "value": "От 29 000 до 38 000 сомов в год"
@@ -2537,7 +2537,7 @@
       "model": "api.fieldvalue",
       "pk": 196,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 11,
         "data": {
           "value": "От 35 000 сом"
@@ -2548,7 +2548,7 @@
       "model": "api.fieldvalue",
       "pk": 197,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 12,
         "data": {
           "value": "Увеличивается с каждым годом примерно на 12 000 сом"
@@ -2559,7 +2559,7 @@
       "model": "api.fieldvalue",
       "pk": 198,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 13,
         "data": {
           "value": "ОРТ"
@@ -2570,7 +2570,7 @@
       "model": "api.fieldvalue",
       "pk": 199,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 14,
         "data": {
           "value": 14
@@ -2581,7 +2581,7 @@
       "model": "api.fieldvalue",
       "pk": 200,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 15,
         "data": {
           "value": 4
@@ -2592,7 +2592,7 @@
       "model": "api.fieldvalue",
       "pk": 201,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 16,
         "data": {
           "value": "Шахмат, тогуз коргоол, плавание, теннис, ордо греко-римская и вольная борьба, волейбол, баскетбол, футбол, дзюдо"
@@ -2603,7 +2603,7 @@
       "model": "api.fieldvalue",
       "pk": 202,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 17,
         "data": {
           "value": "Развод был замечен очень часто"
@@ -2614,7 +2614,7 @@
       "model": "api.fieldvalue",
       "pk": 203,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 18,
         "data": {
           "value": null
@@ -2625,7 +2625,7 @@
       "model": "api.fieldvalue",
       "pk": 204,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 19,
         "data": {
           "value": 4
@@ -2636,7 +2636,7 @@
       "model": "api.fieldvalue",
       "pk": 205,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 20,
         "data": {
           "value": 3
@@ -2647,7 +2647,7 @@
       "model": "api.fieldvalue",
       "pk": 206,
       "fields": {
-        "product": 13,
+        "product": 14,
         "field": 21,
         "data": {
           "value": " В основном отрицательные"
