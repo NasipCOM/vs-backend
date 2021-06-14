@@ -58,7 +58,6 @@ Run the backend dev server:
 ```
 ./manage.py runserver
 ```
-&nbsp;
 
 ### 🔨 Running tests
 ```
