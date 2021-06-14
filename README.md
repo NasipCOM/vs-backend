@@ -1,12 +1,6 @@
-# Backend
+## 📦 Backend Installation instructions
 
-This is backend for "versus.kg" application
-
-# Installation instructions
-
-## Ubuntu and Ubuntu-based
-
-### Python
+### Ubuntu and Ubuntu-based
 
 1. Install prerequisites for Python build:
   ```bash 
@@ -22,7 +16,7 @@ This is backend for "versus.kg" application
    It is needed for virtualenv to be activated automatically when you enter project directory 
    and deactivated when you leave.
 
-# Running dev server
+### ⚙️ Running dev server
 Install prerequisites if using MySQL:
 ```
 sudo apt-get install python3-dev default-libmysqlclient-dev
@@ -62,12 +56,4 @@ This will create a super user with username `admin` and password `Password123`
 Run the backend dev server:
 ```
 ./manage.py runserver
-
-```
-
-
-# Running tests
-
-```
-./manage.py test
 ```
