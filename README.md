@@ -43,6 +43,7 @@ MYSQL_PORT
 
 Then run migrations:
 ```
+
 ./manage.py migrate
 ```
 
@@ -57,3 +58,11 @@ Run the backend dev server:
 ```
 ./manage.py runserver
 ```
+&nbsp;
+
+### 🔨 Running tests
+
+```
+./manage.py test
+```
+
